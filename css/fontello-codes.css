@@ -1,0 +1,20 @@
+
+.icon-terminal:before { content: '\e800'; } /* '' */
+.icon-home:before { content: '\e801'; } /* '' */
+.icon-emo-happy:before { content: '\e802'; } /* '' */
+.icon-user:before { content: '\e803'; } /* '' */
+.icon-globe:before { content: '\e804'; } /* '' */
+.icon-music:before { content: '\e805'; } /* '' */
+.icon-tennis:before { content: '\e806'; } /* '' */
+.icon-hammer:before { content: '\e807'; } /* '' */
+.icon-boardgame:before { content: '\e808'; } /* '' */
+.icon-location:before { content: '\e809'; } /* '' */
+.icon-globe-alt:before { content: '\e80a'; } /* '' */
+.icon-user-male:before { content: '\f062'; } /* '' */
+.icon-github-circled:before { content: '\f09b'; } /* '' */
+.icon-mail-alt:before { content: '\f0e0'; } /* '' */
+.icon-bank:before { content: '\f19c'; } /* '' */
+.icon-chart-pie:before { content: '\f200'; } /* '' */
+.icon-bicycle:before { content: '\f206'; } /* '' */
+.icon-facebook-official:before { content: '\f230'; } /* '' */
+.icon-instagram:before { content: '\f32d'; } /* '' */

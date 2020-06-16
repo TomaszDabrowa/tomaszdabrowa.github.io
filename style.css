@@ -1,0 +1,94 @@
+#pojemnik
+{
+	width:1000px;
+	height:500px;
+	margin-top:50px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+body
+{
+	background-color:grey;
+}
+
+#naglowek
+{
+	width:960px;
+	text-align:center;
+	background-color:#5bc772;
+	padding:20px;
+	font-family: 'Kalam', cursive;
+	height:150px;
+}
+
+#logo
+{
+	height:150px;
+	width:300px;
+	float:left;
+}
+
+#tytul
+{
+	height:150px;
+	width:660px;
+}
+
+#nawigacja
+{
+	width:300px;
+	height:450px;
+	background-color:white;
+	float:left;
+}
+
+.link
+{
+	width:300px;
+	height:130px;
+	text-align:center;
+	font-family: 'Rubik', sans-serif;
+	padding-top:20px;
+}
+
+#zawartosc
+{
+	height:390px;
+	width:940px;
+	background-color:#b9c9bb;
+	font-family: 'Bree Serif', serif;
+	text-align:center;
+	padding-top:30px;
+	padding-bottom:30px;
+	padding-right:30px;
+	padding-left:30px;
+}
+
+#stopka
+{
+	height:35px;
+	width:1000px;
+	background-color:#f21322;
+	text-align:center;
+	font-family: 'Rubik', sans-serif;
+	padding-top:15px;
+}
+
+a:link
+{
+	text-decoration:none;
+	color:black;
+}
+
+a:visited
+{
+	text-decoration:none;
+	color:black;
+}
+
+a:hover
+{
+	text-decoration:none;
+	color:black;
+}
