@@ -16,10 +16,11 @@ body
 {
 	width:960px;
 	text-align:center;
-	background-color:#5bc772;
+	background-color:#003049;
 	padding:20px;
 	font-family: 'Kalam', cursive;
 	height:150px;
+	color:#b9c9bb;
 }
 
 #logo
@@ -32,7 +33,21 @@ body
 #tytul
 {
 	height:150px;
-	width:660px;
+	width:510px;
+	float:left;
+}
+
+#aplikacje
+{
+	height:150px;
+	width:150px;
+	float:left;
+	font-family:'Rubik', sans-serif;
+}
+
+#aplikacje:hover
+{
+	background-color:#001b29;
 }
 
 #nawigacja
@@ -43,20 +58,41 @@ body
 	float:left;
 }
 
-.link
+#omnie
 {
 	width:300px;
 	height:130px;
 	text-align:center;
 	font-family: 'Rubik', sans-serif;
 	padding-top:20px;
+	background-color:#d62828;
+}
+
+#zainteresowania
+{
+	width:300px;
+	height:130px;
+	text-align:center;
+	font-family: 'Rubik', sans-serif;
+	padding-top:20px;
+	background-color:#f77f00;
+}
+
+#kontakt
+{
+	width:300px;
+	height:130px;
+	text-align:center;
+	font-family: 'Rubik', sans-serif;
+	padding-top:20px;
+	background-color:#fcbf49;
 }
 
 #zawartosc
 {
 	height:390px;
 	width:940px;
-	background-color:#b9c9bb;
+	background-color:#eae2b7;
 	font-family: 'Bree Serif', serif;
 	text-align:center;
 	padding-top:30px;
@@ -69,7 +105,7 @@ body
 {
 	height:35px;
 	width:1000px;
-	background-color:#f21322;
+	background-color:#b9c9bb;
 	text-align:center;
 	font-family: 'Rubik', sans-serif;
 	padding-top:15px;
@@ -91,4 +127,49 @@ a:hover
 {
 	text-decoration:none;
 	color:black;
+}
+
+#omnie:hover
+{
+	background-color:#ac2020;
+}
+
+#zainteresowania:hover
+{
+	background-color:#cc6900;
+}
+
+#kontakt:hover
+{
+	background-color:#fcb322;
+}
+
+#naglowek a:link
+{
+	color:#b9c9bb;
+}
+
+#naglowek a:hover
+{
+	color:#b9c9bb;
+}
+
+#naglowek a:visited
+{
+	color:#b9c9bb;
+}
+
+.link_naglowka:link
+{
+	color:#b9c9bb;
+}
+
+.link_naglowka:hover
+{
+	color:#b9c9bb;
+}
+
+.link_naglowka:visited
+{
+	color:#b9c9bb;
 }
